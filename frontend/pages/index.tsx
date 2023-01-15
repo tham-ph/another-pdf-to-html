@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <Typography variant="h3">Another PDF to HTML</Typography>
+        <Typography variant="h3">Another PDF to HTML!</Typography>
       </main>
     </>
   );
